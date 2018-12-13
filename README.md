@@ -7,7 +7,7 @@ You must get wrong,because we didn't provide database we use(mongodb),so you mus
 
 We remove the fonts that provide users choice, please download what you need online(example:NotoSansCJKtc-Medium.otf).
 
-"Save_word" this file is for jieba,you can customize it.
+"Save" this file is for jieba,you can customize it
 
 
 
