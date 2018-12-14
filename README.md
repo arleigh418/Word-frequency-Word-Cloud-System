@@ -12,5 +12,5 @@ We remove the fonts that provide users choice, please download what you need onl
 
 
 
-This system is focused on caculate word frequency and generate word cloud,we provide many choices for users,thry can choose font,color in word cloud and also can upload a picture they want to change the shape of the word cloud.
+This system is focused on caculate word frequency and generate word cloud,we provide many choices for users,they can choose font,color in word cloud and also can upload a picture they want to change the shape of the word cloud.
 
